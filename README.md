@@ -25,4 +25,4 @@ Welcome to my personal digital garden. This repository serves as a documentation
 ---
 
 ### 🌐 Connect
-* [Dev.to Profile](https://dev.to/yourusername)
+* [Dev.to Profile](https://dev.to/prasheel_varma)
