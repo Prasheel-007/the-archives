@@ -1,4 +1,4 @@
-# 📜 [The Codex](./codex)
+# 📜 The Codex
 
 What I Learned About Flutter & React Native
 
