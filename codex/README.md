@@ -1,4 +1,4 @@
-# 🧠 [Journal & Thoughts](./journal)
+# 📜 [The Codex](./codex)
 
 What I Learned About Flutter & React Native
 
