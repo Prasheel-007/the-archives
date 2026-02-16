@@ -6,17 +6,17 @@ Welcome to my personal digital garden. This repository serves as a documentation
 
 ## 📂 Navigation
 
-### 🔮 [Magic Apps & Curation](./magic-apps)
-*A collection of underrated tools, apps, and workflows that feel like magic but run on logic.*
+### 🔮 [Artifacts](./magic-apps)
+*A curated collection of underrated tools, apps, artifacts, and workflows that feel like magic and drive my productivity.*
 * Expect: Android hacks, PC control tools, productivity workflows.
 
 ### 🛠️ [Projects & Builds](./projects)
 *Documentation of the things I have built or am currently building.*
 * Expect: Technical breakdowns, "How I did it" guides, and showcases.
 
-### 🧠 [Journal & Thoughts](./journal)
-*Raw thoughts, frustrations, and random ideas.*
-* Expect: Unfiltered opinions and day-to-day updates.
+### 📜 [The Codex](./codex)
+*A knowledge base for technical concepts, patterns, and solutions.*
+* Expect: Detailed engineering guides and quick-reference learning notes.
 
 ---
 
